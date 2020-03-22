@@ -6,12 +6,12 @@
                         <div class="widget">
                             <h5 class="widgetheading">Our Contact</h5>
                             <address>
-					<strong>Bootstrap company Inc</strong><br>
+					<strong>suubitech Enterprise</strong><br>
 					JC Main Road, Near Silnile tower<br>
 					 Pin-21542 NewYork US.</address>
                             <p>
                                 <i class="icon-phone"></i> (123) 456-789 - 1255-12584 <br>
-                                <i class="icon-envelope-alt"></i> email@domainname.com
+                                <i class="icon-envelope-alt"></i> suubitech@domainname.com
                             </p>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-3">
+                    <!-- <div class="col-sm-3">
                         <div class="widget">
                             <h5 class="widgetheading">Latest posts</h5>
                             <ul class="link-list">
@@ -36,7 +36,7 @@
                                 <li><a class="waves-effect waves-dark" href="#">Natus error sit voluptatem accusantium doloremque</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-sm-3">
                         <div class="widget">
                             <h5 class="widgetheading">Recent News</h5>
