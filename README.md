@@ -1,1 +1,0 @@
-# hovita website Template
