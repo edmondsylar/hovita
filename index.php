@@ -44,18 +44,18 @@
                     </div>
                     <div class="navbar-collapse collapse ">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a class="waves-effect waves-dark" href="index.html">Home</a></li>
+                            <li class="active"><a class="waves-effect waves-dark" href="index.php">Home</a></li>
                             <li class="dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle waves-effect waves-dark">Products<b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="waves-effect waves-dark" href="about.html">Busniess Manager</a></li>
+                                    <li><a class="waves-effect waves-dark" href="#">Busniess Manager</a></li>
                                     <li><a class="waves-effect waves-dark" href="#">Our Team</a></li>
                                     <li><a class="waves-effect waves-dark" href="#">News</a></li>
                                     <li><a class="waves-effect waves-dark" href="#">Investors</a></li>
                                 </ul>
                             </li>
-                            <li disabled><a class="waves-effect waves-dark" href="services.html">Services</a></li>
-                            <li disabled><a class="waves-effect waves-dark" href="contact.html">Contact</a></li>
+                            <li disabled><a class="waves-effect waves-dark" href="#">Services</a></li>
+                            <li disabled><a class="waves-effect waves-dark" href="#">Contact</a></li>
                         </ul>
                     </div>
                 </div>
